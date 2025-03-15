@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/franco-alarcón/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/FrancoAlarcon" target="_blank">
+  <a href="https://github.com/FrancoABL" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github" alt="GitHub Badge"/>
   </a>
 </p>
