@@ -1,57 +1,52 @@
-<h1 align="center">Hi , I'm Franco Alarcón <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Hi, I'm Franco Alarcón <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Full+Stack;Entusiasta+del+Aprendizaje+Continuo;Amante+de+la+Tecnología;Siempre+buscando+nuevos+desafíos"></a>
+<p>
+  <em>I'm a passionate developer from Chile, specialized in Python, web scraping, and full-stack development.</em>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&style=flat-square&color=blue" alt=""/>
-</div>
-
-<br>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-- 🔭 Actualmente estoy trabajando en [Tu proyecto actual]
-- 🌱 Estoy aprendiendo [Tecnologías que estás aprendiendo]
-- 👯 Busco colaborar en proyectos de [Tipo de proyectos]
-- 🤔 Estoy interesado en [Áreas de interés]
-- 💬 Pregúntame sobre [Tecnologías que dominas]
-- 📫 Cómo contactarme: [Tu email o redes sociales]
-- ⚡ Dato curioso: [Algo interesante sobre ti]
-
-<br>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px></picture> Lenguajes y Herramientas
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+<p>
+  <a href="https://www.linkedin.com/in/franco-alarcón/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/FrancoAlarcon" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github" alt="GitHub Badge"/>
   </a>
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px></picture> GitHub Stats
+<h3>About Me</h3>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&theme=radical&layout=compact" />
+<p>
+  I am a developer with experience in Python, JavaScript, HTML, CSS, Java, and web scraping. I have worked on several web scraping projects and am currently diving into React, Data Science, and backend development. I am passionate about learning and solving problems with code.
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Conecta conmigo
-<p align="center">
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/tuusuario"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<h3>Skills</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=java" alt="Java"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tuusuario&theme=radical&no-frame=false&no-bg=true" />
+<h3>Python Frameworks</h3>
+<p>
+  <img src="https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-000000?style=flat&logo=python" alt="BeautifulSoup"/>
+  <img src="https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas" alt="Pandas"/>
 </p>
 
----
+<h3>Current Projects</h3>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+<p>
+  <ul>
+    <li>Web Scraping Project using Selenium and Python</li>
+    <li>React Portfolio Website</li>
+    <li>Data Science and Machine Learning experiments</li>
+  </ul>
+</p>
+
+<h3>Contact</h3>
+<p>
+  Feel free to connect with me via LinkedIn or check out my GitHub repositories!
 </p>
