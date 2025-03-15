@@ -47,6 +47,8 @@
 </p>
 
 <h3>Contact</h3>
-<p>
-  Feel free to connect with me via LinkedIn or check out my GitHub repositories!
+<p align="center">
+  <a href="mailto:fr.alarconb@duocuc.cl"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/franco-alarc%C3%B3n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/FrancoABL"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
